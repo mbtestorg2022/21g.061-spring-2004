@@ -4,22 +4,225 @@ title: Calendar
 uid: ab70de27-04cf-526c-a507-b90dd49ed2df
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | DeLillo. _Mao II._ |
-| 3 |  {{< br >}}{{< br >}} Said. "The Essential Terrorist." {{< br >}}{{< br >}} Lentricchia, and McAuliffe. "Groundzeroland."  {{< br >}}{{< br >}} Scanlan. _Plotting Terror._ Introduction. {{< br >}}{{< br >}}  |
-| 4 | Trotta, Von. _Marianne and Juliane._ (In-class review) |
-| 5 |  {{< br >}}{{< br >}} Elsaesser. "Antigone Agonistes." {{< br >}}{{< br >}} Baumann. "How Everything Started." {{< br >}}{{< br >}}  |
-| 6 | Kleist. _Michael Kohlhaas._ |
-| 7 | Wittkowski. "Is Kleist's Michael Kohlhaas a Terrorist?" |
-| 8 |  {{< br >}}{{< br >}} Fleming. "Propaganda by the Deed: Terrorism and Anarchist Theory in Late Nineteenth-Century Europe." {{< br >}}{{< br >}} Bakunin. _God and the State._ {{< br >}}{{< br >}} Kropotkin. "The Spirit of Revolt." {{< br >}}{{< br >}}  |
-| 9 | Conrad. _The Secret Agent._ |
-| 10 | Jordan. _The Crying Game._ (In-class review) |
-| 11 | Gillon. "The Desperate Shape of Betrayal." |
-| 12 |  {{< br >}}{{< br >}} Lessing. _The Good Terrorist._ {{< br >}}{{< br >}} Scanlan. "Doris Lessing's _The Good Terrorist._" {{< br >}}{{< br >}} Corrado. "The Evolution of the Irish Republican Army." {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Fo. _The Accidental Death of an Anarchist._ {{< br >}}{{< br >}} Wieviorka. "The Italian Phenomenon of Leftist Extremist Terrorism." {{< br >}}{{< br >}}  |
-| 14 | Rosi. _Three Brothers_. (In-class review) |
-| 15 |  {{< br >}}{{< br >}} Dürrenmatt. _The Assignment_. {{< br >}}{{< br >}} Crockett. _Understanding Friedrich Dürrenmatt: The Assignment_. {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} Böll. _The Lost Honor of Katharina Blum_. {{< br >}}{{< br >}} Corrado. "The History of the German Student Movement and the Birth of the Baader-Meinhof Group." {{< br >}}{{< br >}}  |
-| 17 |  {{< br >}}{{< br >}} Richter. _18\. Oktober 1977_. (In-class viewing) {{< br >}}{{< br >}} Grimonprez. _Dial H-I-S-T-O-R-Y._ (In-class review) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+DeLillo. _Mao II._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Said. "The Essential Terrorist."
+
+Lentricchia, and McAuliffe. "Groundzeroland." 
+
+Scanlan. _Plotting Terror._ Introduction.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Trotta, Von. _Marianne and Juliane._ (In-class review)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Elsaesser. "Antigone Agonistes."
+
+Baumann. "How Everything Started."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Kleist. _Michael Kohlhaas._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Wittkowski. "Is Kleist's Michael Kohlhaas a Terrorist?"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fleming. "Propaganda by the Deed: Terrorism and Anarchist Theory in Late Nineteenth-Century Europe."
+
+Bakunin. _God and the State._
+
+Kropotkin. "The Spirit of Revolt."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Conrad. _The Secret Agent._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Jordan. _The Crying Game._ (In-class review)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Gillon. "The Desperate Shape of Betrayal."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lessing. _The Good Terrorist._
+
+Scanlan. "Doris Lessing's _The Good Terrorist._"
+
+Corrado. "The Evolution of the Irish Republican Army."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fo. _The Accidental Death of an Anarchist._
+
+Wieviorka. "The Italian Phenomenon of Leftist Extremist Terrorism."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Rosi. _Three Brothers_. (In-class review)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dürrenmatt. _The Assignment_.
+
+Crockett. _Understanding Friedrich Dürrenmatt: The Assignment_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Böll. _The Lost Honor of Katharina Blum_.
+
+Corrado. "The History of the German Student Movement and the Birth of the Baader-Meinhof Group."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Richter. _18\. Oktober 1977_. (In-class viewing)
+
+Grimonprez. _Dial H-I-S-T-O-R-Y._ (In-class review)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
